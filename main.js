@@ -13,3 +13,9 @@ document.getElementById("blue").classList.add("bg-primary");
 document.getElementById("yellow").classList.add("bg-warning");
 document.getElementById("green").classList.add("bg-success");
 document.getElementById("black").classList.add("bg-dark");
+
+document.getElementById("red").classList.remove("bg-white");
+document.getElementById("blue").classList.remove("bg-white");
+document.getElementById("yellow").classList.remove("bg-white");
+document.getElementById("green").classList.remove("bg-white");
+document.getElementById("black").classList.remove("bg-white");
